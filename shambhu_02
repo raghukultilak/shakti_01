@@ -1,0 +1,9 @@
+#!/bin/bash
+#this is the second script for use of comments
+# - is used for single line comments 
+<<comment
+this is
+for 
+multiline 
+comments
+comment
